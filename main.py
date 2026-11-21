@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """VELMORA — a travel poster for a place that isn't there.
 
 A program that draws one travel poster (1024x1024 PNG) with Pillow and
